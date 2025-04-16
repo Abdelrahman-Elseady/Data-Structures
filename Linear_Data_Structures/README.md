@@ -58,3 +58,12 @@ Also implemented using a linked list with the following operations:
 - `queueSize()` : `int`  
 - `clear()` : `void`  
 - `print()` : `void` 
+
+---
+
+## 📌 Priority Queue Implementation
+
+implemented using max heap with the following operations:
+
+- `insertWithPriority(int element,int priority)` : `void`
+- `extractHighestPriority()` : `void` 
