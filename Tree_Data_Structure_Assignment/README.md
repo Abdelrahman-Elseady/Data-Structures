@@ -36,3 +36,11 @@ Each structure provides the following operations (where applicable):
 - `sortByPrice()` : `void`  
 - `sortByName()` : `void`  
 - `loadFromFile(filename)` : `void`  
+
+
+-----
+
+
+- **Red Black Tree**  
+
+- A red black binary tree implementaion with delete and insert features
